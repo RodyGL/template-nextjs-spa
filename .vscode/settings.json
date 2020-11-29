@@ -1,0 +1,12 @@
+{
+  /* ESLint options */
+  "eslint.alwaysShowStatus": true,
+  "eslint.workingDirectories": [
+    "src" //
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
